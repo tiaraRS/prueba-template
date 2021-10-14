@@ -4,4 +4,9 @@ function anagrama(cadena){
     return cadena;
 }
 
-export default anagrama;
+export default anagrama;asdfasdfasd
+asdfasdfasdasdf
+asdfasdfasdasdf
+asdfasdfasdasdf
+asdfasdfasdasdf
+asdfasdfasdasdf
